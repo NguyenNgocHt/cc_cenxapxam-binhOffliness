@@ -1,0 +1,43 @@
+{
+  "title": "Hotupdate",
+  "packageName": "org.cocos2d.demo",
+  "startScene": "9c20a6ac-d504-43d4-b080-13b13117f96a",
+  "excludeScenes": [],
+  "includeSDKBox": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "webOrientation": "auto",
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "md5Cache": false,
+  "encryptJs": true,
+  "xxteaKey": "c456dcfd-9c3f-4b",
+  "zipCompressJs": false,
+  "fb-instant-games": {},
+  "android": {
+    "packageName": "com.hotandroid"
+  },
+  "mac": {
+    "packageName": "org.cocos2d.demo"
+  },
+  "win32": {},
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "org.cocos2d.demo",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "appBundle": false,
+  "ios": {
+    "packageName": "org.cocos2d.demo"
+  }
+}
